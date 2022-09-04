@@ -1,0 +1,18 @@
+# Created by trellis-cli v1.7.0
+# Documentation: https://docs.roots.io/trellis/master/wordpress-sites/
+
+wordpress_sites:
+  bagsap.com.br:
+    site_hosts:
+    - canonical: bagsap.test
+      redirects:
+      - www.bagsap.test
+    local_path: ../site
+    admin_email: admin@bagsap.test
+    multisite:
+      enabled: false
+    ssl:
+      enabled: false
+      provider: self-signed
+    cache:
+      enabled: false
