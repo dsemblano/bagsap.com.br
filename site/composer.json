@@ -47,6 +47,7 @@
     "wpackagist-plugin/ti-woocommerce-wishlist":">=1.47.0",
     "wpackagist-plugin/variation-swatches-for-woocommerce":">=2.1.6",
     "wpackagist-plugin/woo-free-product-sample":">=2.2.9",
+    "wpackagist-plugin/autodescription":">=4.2.5",
     "wpackagist-theme/twentytwentytwo": "^1.2"
   },
   "require-dev": {
