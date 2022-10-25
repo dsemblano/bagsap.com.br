@@ -1,0 +1,2660 @@
+# Copyright (C) 2022 Woostify
+# This file is distributed under the same license as the Woostify package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woostify\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-25 07:17+0000\n"
+"PO-Revision-Date: 2022-10-25 07:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3"
+
+#: comments.php:14
+msgid "Post Comments"
+msgstr "Postar Comentários"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s comentário"
+msgstr[1] "%1$s comentários"
+
+#: comments.php:29
+msgid "Comment Navigation Above"
+msgstr "Comentário De Navegação Acima"
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr "Comentário de navegação"
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr "← Comentários Mais Antigos"
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr "Novos Comentários →"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:56,
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:160,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:115,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:155
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:57
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:66
+msgid "Message"
+msgstr "Mensagem"
+
+#: comments.php:68
+msgid "Submit"
+msgstr "Enviar"
+
+#. translators: %s: search term
+#. translators: %s: search term
+#: search.php:19, inc/woostify-template-functions.php:925
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa para: %s"
+
+#: sidebar-shop.php:16, sidebar-shop.php:31, sidebar-shop.php:46
+msgid "Sidebar Shop Widget"
+msgstr "Lateral Loja Widget"
+
+#. translators: 1: admin URL
+#. translators: 1: admin URL
+#. translators: 1: admin URL
+#: sidebar-shop.php:22, sidebar-shop.php:37, sidebar-shop.php:52
+msgid ""
+"Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance "
+"/ Widgets / Woocommerce Sidebar</strong></a> and dragging widgets into this "
+"widget area."
+msgstr ""
+
+#: sidebar.php:17, sidebar.php:32, sidebar.php:47
+msgid "Sidebar Widget"
+msgstr "Barra Lateral Widget"
+
+#. translators: 1: admin URL
+#. translators: 1: admin URL
+#. translators: 1: admin URL
+#: sidebar.php:23, sidebar.php:38, sidebar.php:53
+msgid ""
+"Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance "
+"/ Widgets / Main Sidebar</strong></a> and dragging widgets into this widget "
+"area."
+msgstr ""
+
+#: inc/class-woostify.php:236,
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:743,
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:144,
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:108,
+#: inc/customizer/sections/performance/performance.php:119
+msgid "Clear"
+msgstr "Claro"
+
+#: inc/class-woostify.php:237,
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:109
+msgid "Clear color"
+msgstr "Cor clara"
+
+#: inc/class-woostify.php:238,
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:112,
+#: inc/customizer/sections/page-header/page-header.php:268,
+#: inc/customizer/sections/page-header/page-header.php:297,
+#: inc/customizer/sections/page-header/page-header.php:364,
+#: inc/customizer/sections/sidebar/sidebar.php:25,
+#: inc/customizer/sections/sidebar/sidebar.php:62,
+#: inc/customizer/sections/sidebar/sidebar.php:112,
+#: inc/customizer/sections/sidebar/sidebar.php:143,
+#: inc/customizer/sections/sidebar/sidebar.php:195,
+#: inc/customizer/sections/sidebar/sidebar.php:228,
+#: inc/customizer/sections/wordpress/background-image.php:22
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/class-woostify.php:239,
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:110
+msgid "Select default color"
+msgstr "Selecione a cor padrão"
+
+#: inc/class-woostify.php:240,
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:113
+msgid "Select Color"
+msgstr "Selecione Uma Cor"
+
+#: inc/class-woostify.php:241,
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:111
+msgid "Color value"
+msgstr "Valor de cor"
+
+#: inc/class-woostify.php:310
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/class-woostify.php:406
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: inc/class-woostify.php:407
+msgid "Footer Menu"
+msgstr "Rodapé Do Menu"
+
+#: inc/class-woostify.php:408, inc/customizer/register-sections.php:16
+msgid "Mobile Menu"
+msgstr "Móveis De Menu"
+
+#: inc/class-woostify.php:409
+msgid "Mobile Categories Menu"
+msgstr "Móveis Categorias De Menu"
+
+#: inc/class-woostify.php:479
+msgid "Primary Color"
+msgstr "Cor Primária"
+
+#: inc/class-woostify.php:484, inc/customizer/sections/footer/footer.php:184,
+#: inc/customizer/sections/typography/heading.php:135
+msgid "Heading Color"
+msgstr "Título Da Cor"
+
+#: inc/class-woostify.php:489,
+#: inc/customizer/class-woostify-customizer.php:321,
+#: inc/customizer/sections/buttons/button.php:36,
+#: inc/customizer/sections/color/color.php:52,
+#: inc/customizer/sections/footer/footer.php:234,
+#: inc/customizer/sections/header/topbar.php:71,
+#: inc/customizer/sections/shop/shop-page.php:1058,
+#: inc/customizer/sections/shop/shop-page.php:1296
+msgid "Text Color"
+msgstr "Cor Do Texto"
+
+#: inc/class-woostify.php:501,
+#: inc/customizer/sections/typography/heading.php:375
+msgid "H6"
+msgstr "H6"
+
+#: inc/class-woostify.php:506,
+#: inc/customizer/sections/typography/heading.php:340
+msgid "H5"
+msgstr "H5"
+
+#: inc/class-woostify.php:511,
+#: inc/customizer/sections/typography/heading.php:305
+msgid "H4"
+msgstr "H4"
+
+#: inc/class-woostify.php:516,
+#: inc/customizer/sections/typography/heading.php:270
+msgid "H3"
+msgstr "H3"
+
+#: inc/class-woostify.php:521,
+#: inc/customizer/sections/typography/heading.php:235
+msgid "H2"
+msgstr "H2"
+
+#: inc/class-woostify.php:526,
+#: inc/customizer/sections/typography/heading.php:200
+msgid "H1"
+msgstr "H1"
+
+#: inc/class-woostify.php:567
+msgid "Main Sidebar"
+msgstr "Barra Lateral Principal"
+
+#: inc/class-woostify.php:569
+msgid "Appears in the sidebar of the site."
+msgstr "Aparece na barra lateral do site."
+
+#: inc/class-woostify.php:576
+msgid "Woocommerce Sidebar"
+msgstr "Woocommerce Lateral"
+
+#: inc/class-woostify.php:578
+msgid " Appears in the sidebar of shop/product page."
+msgstr " Aparece na lateral da loja/produto página."
+
+#: inc/class-woostify.php:585, inc/woostify-template-functions.php:223,
+#: inc/woostify-template-functions.php:238,
+#: inc/woostify-template-functions.php:253
+msgid "Footer Widget"
+msgstr "Rodapé Widget"
+
+#: inc/class-woostify.php:587
+msgid "Appears in the footer section of the site."
+msgstr "Aparece na seção de rodapé do site."
+
+#: inc/class-woostify.php:706
+msgid "View cart"
+msgstr "Ver carrinho"
+
+#: inc/class-woostify.php:1082
+msgid "Post Pagination"
+msgstr "Post Paginação"
+
+#: inc/class-woostify.php:1154
+msgid "Theme Primary Color"
+msgstr "Tema Cor Primária"
+
+#: inc/class-woostify.php:1160
+msgid "Theme Text Color"
+msgstr "Tema Cor Do Texto"
+
+#: inc/class-woostify.php:1166
+msgid "Theme Accent Color"
+msgstr "Tema Cor De Destaque"
+
+#: inc/class-woostify.php:1172
+msgid "Theme Link Hover Color"
+msgstr "Tema Link Hover Cor"
+
+#: inc/class-woostify.php:1178
+msgid "Theme Extra Color 1"
+msgstr "Tema Cor Extra 1"
+
+#: inc/class-woostify.php:1184
+msgid "Theme Extra Color 2"
+msgstr "Tema Cor Extra 2"
+
+#: inc/woostify-functions.php:416
+msgid "Placeholder image"
+msgstr "Imagem de marcador de posição"
+
+#: inc/woostify-functions.php:419
+msgid "Error image"
+msgstr "Erro de imagem"
+
+#: inc/woostify-functions.php:901, inc/woostify-functions.php:892
+msgctxt "label"
+msgid "Search for:"
+msgstr "Procurar por:"
+
+#: inc/woostify-functions.php:903, inc/woostify-functions.php:895,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1354,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1354
+msgctxt "submit button"
+msgid "Search"
+msgstr "Procura"
+
+#: inc/woostify-functions.php:893
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Procurar ..."
+
+#: inc/woostify-template-functions.php:23,
+#: inc/admin/class-woostify-admin.php:267
+msgid "Woostify"
+msgstr "Woostify"
+
+#: inc/woostify-template-functions.php:61
+msgid "Related Posts"
+msgstr "Posts Relacionados"
+
+#: inc/woostify-template-functions.php:80
+msgid "Read more"
+msgstr "Leia mais"
+
+#. translators: Date time
+#: inc/woostify-template-functions.php:120
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: inc/woostify-template-functions.php:162
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário está aguardando moderação."
+
+#: inc/woostify-template-functions.php:188
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: 1: admin URL
+#. translators: 1: admin URL
+#. translators: 1: admin URL
+#: inc/woostify-template-functions.php:229,
+#: inc/woostify-template-functions.php:244,
+#: inc/woostify-template-functions.php:259
+msgid ""
+"Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance "
+"/ Widgets / Footer Widget</strong></a> and dragging widgets into this widget "
+"area."
+msgstr ""
+
+#: inc/woostify-template-functions.php:279
+msgid ""
+"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr ""
+
+#: inc/woostify-template-functions.php:386,
+#: inc/woostify-template-functions.php:367
+msgid "Woostify mobile logo"
+msgstr "Woostify móvel logotipo"
+
+#: inc/woostify-template-functions.php:418
+msgid "Woostify logo"
+msgstr "Woostify logotipo"
+
+#: inc/woostify-template-functions.php:446
+msgid "Woostify retina logo"
+msgstr "Woostify retina logotipo"
+
+#: inc/woostify-template-functions.php:561
+msgid "Primary navigation"
+msgstr "Principal de navegação"
+
+#: inc/woostify-template-functions.php:585
+msgid "Add a Primary Menu"
+msgstr "Adicionar um Menu Principal"
+
+#: inc/woostify-template-functions.php:591
+msgid "Categories Menu"
+msgstr "Categorias De Menu"
+
+#: inc/woostify-template-functions.php:617
+msgid "Skip to navigation"
+msgstr "Saltar para navegação"
+
+#: inc/woostify-template-functions.php:618
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: inc/woostify-template-functions.php:653,
+#: inc/admin/class-woostify-admin.php:393
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: inc/woostify-template-functions.php:660,
+#: inc/woostify-template-functions.php:908
+msgid "Logout"
+msgstr "Logout"
+
+#: inc/woostify-template-functions.php:644
+msgid "Login / Register"
+msgstr "Entrar / Registar"
+
+#: inc/woostify-template-functions.php:790,
+#: inc/woostify-template-functions.php:743,
+#: inc/woostify-template-functions.php:914,
+#: inc/customizer/register-sections.php:17
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/woostify-template-functions.php:768,
+#: inc/woostify-template-functions.php:835,
+#: inc/woostify-template-functions.php:718,
+#: inc/admin/class-woostify-admin.php:245
+msgid "Shop"
+msgstr "Loja"
+
+#: inc/woostify-template-functions.php:853
+msgid "Archives"
+msgstr "Arquivos"
+
+#: inc/woostify-template-functions.php:837
+msgid "Tags: "
+msgstr "Tags: "
+
+#: inc/woostify-template-functions.php:832
+msgid "Search results: "
+msgstr "Resultados da pesquisa: "
+
+#: inc/woostify-template-functions.php:830
+msgid "Yearly Archives: %s"
+msgstr "Anual de Arquivos: %s"
+
+#: inc/woostify-template-functions.php:830
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/woostify-template-functions.php:820
+msgid "Monthly Archives: %s"
+msgstr "Arquivos mensais: %s"
+
+#: inc/woostify-template-functions.php:820
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/woostify-template-functions.php:817
+msgid "Daily Archives: %s"
+msgstr "Diário Arquivos: %s"
+
+#: inc/woostify-template-functions.php:916,
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:122
+msgid "Search"
+msgstr "Procura"
+
+#: inc/woostify-template-functions.php:910
+msgid "Lost password"
+msgstr "Senha perdida"
+
+#: inc/woostify-template-functions.php:906
+msgid "Addresses"
+msgstr "Endereços"
+
+#: inc/woostify-template-functions.php:904
+msgid "Account details"
+msgstr "Detalhes da conta"
+
+#: inc/woostify-template-functions.php:902
+msgid "Downloads"
+msgstr "Downloads"
+
+#: inc/woostify-template-functions.php:900
+msgid "Orders"
+msgstr "Encomendas"
+
+#: inc/woostify-template-functions.php:989,
+#: inc/woostify-template-functions.php:1321
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/woostify-template-functions.php:1301,
+#: inc/woostify-template-functions.php:1347
+msgid "Read More"
+msgstr "Leia Mais"
+
+#: inc/woostify-template-functions.php:1365,
+#: inc/customizer/sections/shop/shop-single.php:489
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/woostify-template-functions.php:1365,
+#: inc/woostify-template-functions.php:1537
+msgid ", "
+msgstr ", "
+
+#: inc/woostify-template-functions.php:1387
+msgctxt "Next post"
+msgid "Next"
+msgstr "Próximo"
+
+#: inc/woostify-template-functions.php:1388
+msgctxt "Previous post"
+msgid "Prev"
+msgstr "Anterior"
+
+#: inc/woostify-template-functions.php:1405
+msgid "Next post:"
+msgstr "Próximo post:"
+
+#: inc/woostify-template-functions.php:1406
+msgid "Previous post:"
+msgstr "Post anterior:"
+
+#: inc/woostify-template-functions.php:1432
+msgid "Author Avatar"
+msgstr "Autor Avatar"
+
+#: inc/woostify-template-functions.php:1437
+msgid "Written by"
+msgstr "Escrito por"
+
+#: inc/woostify-template-functions.php:1469
+msgid "Posted on"
+msgstr "Postado em"
+
+#: inc/woostify-template-functions.php:1513
+msgid "by"
+msgstr "por"
+
+#: inc/woostify-template-functions.php:1511
+msgid "by Unknown author"
+msgstr "por autor Desconhecido"
+
+#: inc/woostify-template-functions.php:1543
+msgid "Posted in"
+msgstr "Postado em"
+
+#: inc/woostify-template-functions.php:1573
+msgid "No comments yet"
+msgstr "Sem comentários ainda"
+
+#: inc/woostify-template-functions.php:1574
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/woostify-template-functions.php:1575
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: inc/woostify-template-functions.php:1775
+msgid "Type to search"
+msgstr "Tipo de pesquisa"
+
+#: inc/woostify-template-functions.php:2474,
+#: inc/customizer/register-sections.php:23,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:49
+msgid "Scroll To Top"
+msgstr "Voltar Ao Topo"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Não Encontrado"
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não consegue encontrar o que você está procurando. Talvez a "
+"pesquisa pode ajudar."
+
+#: template-parts/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada de correspondência de termos de pesquisa. Por favor, "
+"tente novamente com algumas palavras-chave diferentes."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-photoswipe.php:59
+msgid "Previous (arrow left)"
+msgstr "Anterior (seta para esquerda)"
+
+#: template-parts/content-photoswipe.php:62
+msgid "Next (arrow right)"
+msgstr "Próximo (seta para a direita)"
+
+#: inc/admin/class-woostify-admin.php:73
+msgid "logo"
+msgstr "logo"
+
+#: inc/admin/class-woostify-admin.php:77
+msgid "Thanks for installing Woostify!"
+msgstr "Obrigado por instalar Woostify!"
+
+#. translators: Theme options
+#: inc/admin/class-woostify-admin.php:83
+msgid ""
+"To fully take advantage of the best our theme can offer please make sure you "
+"visit our <a href=\"%1$s\">Woostify Options</a>."
+msgstr ""
+
+#: inc/admin/class-woostify-admin.php:94
+msgid "Dismiss this notice."
+msgstr "Fechar este aviso."
+
+#: inc/admin/class-woostify-admin.php:210
+msgid "Upload Logo"
+msgstr "Upload Do Logotipo"
+
+#: inc/admin/class-woostify-admin.php:217
+msgid "Set Colors"
+msgstr "Conjunto De Cores"
+
+#: inc/admin/class-woostify-admin.php:224,
+#: inc/customizer/register-sections.php:30,
+#: inc/customizer/sections/shop/shop-single.php:534
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/admin/class-woostify-admin.php:231,
+#: inc/customizer/register-sections.php:58
+msgid "Buttons"
+msgstr "Botões"
+
+#: inc/admin/class-woostify-admin.php:238,
+#: inc/customizer/register-sections.php:67
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/admin/class-woostify-admin.php:266
+msgid "Woostify Logo"
+msgstr "Woostify Logotipo"
+
+#: inc/admin/class-woostify-admin.php:285
+msgid "Multiple Headers"
+msgstr "Múltiplos Cabeçalhos"
+
+#: inc/admin/class-woostify-admin.php:291
+msgid "Sticky Header"
+msgstr "Sticky Cabeçalho"
+
+#: inc/admin/class-woostify-admin.php:297
+msgid "Mega Menu"
+msgstr "Mega-Menu"
+
+#: inc/admin/class-woostify-admin.php:303
+msgid "Elementor Bundle"
+msgstr "Elementor Bundle"
+
+#: inc/admin/class-woostify-admin.php:309
+msgid "Header Footer Builder"
+msgstr "Cabeçalho Rodapé Builder"
+
+#: inc/admin/class-woostify-admin.php:315
+msgid "WooBuilder"
+msgstr "WooBuilder"
+
+#: inc/admin/class-woostify-admin.php:321
+msgid "Ajax Product Filter"
+msgstr "Ajax Filtro De Produto"
+
+#: inc/admin/class-woostify-admin.php:327
+msgid "Ajax Product Search"
+msgstr "Ajax De Pesquisa De Produtos"
+
+#: inc/admin/class-woostify-admin.php:333
+msgid "Size Guide"
+msgstr "Guia De Tamanhos"
+
+#: inc/admin/class-woostify-admin.php:339
+msgid "Advanced Shop Widgets"
+msgstr "Avançado Loja De Widgets"
+
+#: inc/admin/class-woostify-admin.php:345
+msgid "Buy Now Button"
+msgstr "Botão Comprar Agora"
+
+#: inc/admin/class-woostify-admin.php:351
+msgid "Sticky Single Add To Cart"
+msgstr "Sticky Único Adicionar Ao Carrinho"
+
+#: inc/admin/class-woostify-admin.php:357
+msgid "Quick View"
+msgstr "Visualização Rápida"
+
+#: inc/admin/class-woostify-admin.php:363
+msgid "Countdown Urgency"
+msgstr "Contagem Regressiva Urgência"
+
+#: inc/admin/class-woostify-admin.php:369
+msgid "Variation Swatches"
+msgstr "Variação De Amostras"
+
+#: inc/admin/class-woostify-admin.php:375
+msgid "Sale Notification"
+msgstr "Notificação De Venda"
+
+#: inc/admin/class-woostify-admin.php:394,
+#: inc/admin/class-woostify-admin.php:450
+msgid "Starter Templates"
+msgstr "Starter Modelos"
+
+#: inc/admin/class-woostify-admin.php:398
+msgid "Customizer Shortcuts"
+msgstr "Personalização De Atalhos"
+
+#. translators: 1: Class name
+#: inc/admin/class-woostify-admin.php:410
+msgid "%s not activated."
+msgstr "%s não ativada."
+
+#: inc/admin/class-woostify-admin.php:419
+msgid "Go to option"
+msgstr "Vá para a opção"
+
+#: inc/admin/class-woostify-admin.php:428,
+#: inc/customizer/class-woostify-customizer.php:736
+msgid "Get Woostify  Pro Extensions!"
+msgstr "Obter Woostify Pro Extensões!"
+
+#: inc/admin/class-woostify-admin.php:440
+msgid "Learn more"
+msgstr "Saiba mais"
+
+#: inc/admin/class-woostify-admin.php:452
+msgid ""
+"Quickly and easily transform your shops appearance with Woostify Demo Sites."
+msgstr ""
+"Rapidamente e facilmente transformar suas lojas aparência com Woostify Sites "
+"Demo."
+
+#: inc/admin/class-woostify-admin.php:455
+msgid ""
+"It will require other 3rd party plugins such as Elementor, Woocommerce, "
+"Contact form 7, etc."
+msgstr ""
+"Ele vai exigir que outros plugins de 3, tais como Elementor, Woocommerce, "
+"formulário de Contato, 7, etc."
+
+#: inc/admin/class-woostify-admin.php:481
+msgid "Import Demo"
+msgstr "Importação De Demonstração"
+
+#: inc/admin/class-woostify-admin.php:488
+msgid "Install Woostify Library"
+msgstr "Instalar Woostify Biblioteca"
+
+#: inc/admin/class-woostify-admin.php:486
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/admin/class-woostify-admin.php:497
+msgid "Activating"
+msgstr "Ativando"
+
+#: inc/admin/class-woostify-admin.php:498
+msgid "Installing"
+msgstr "Instalação"
+
+#: inc/admin/class-woostify-admin.php:515
+msgid "Document"
+msgstr "Documento"
+
+#: inc/admin/class-woostify-admin.php:519
+msgid ""
+"Want a guide? We have video tutorials to walk you through getting started."
+msgstr ""
+"Quer um guia? Temos tutoriais em vídeo para que você caminhe introdução."
+
+#: inc/admin/class-woostify-admin.php:523
+msgid "Visit Documentation"
+msgstr "Visite Documentação"
+
+#: inc/admin/class-woostify-admin.php:529
+msgid "Community"
+msgstr "Comunidade"
+
+#: inc/admin/class-woostify-admin.php:533
+msgid "Join our community! Share your site, ask a question and help others."
+msgstr ""
+"Junte-se a nossa comunidade! Compartilhe seu site, faça uma pergunta e "
+"ajudar os outros."
+
+#: inc/admin/class-woostify-admin.php:537
+msgid "Join Our Facebook Group"
+msgstr "Participe Do Nosso Facebook Grupo"
+
+#: inc/admin/class-woostify-admin.php:543
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/admin/class-woostify-admin.php:547
+msgid ""
+"Have a question, we are happy to help! Get in touch with our support team."
+msgstr ""
+"Tenho uma pergunta, nós estamos felizes em ajudar! Entre em contato com "
+"nossa equipe de suporte."
+
+#: inc/admin/class-woostify-admin.php:551
+msgid "Submit a Ticket"
+msgstr "Enviar um Ticket"
+
+#: inc/admin/class-woostify-admin.php:557
+msgid "Love Woostify?"
+msgstr "Amor Woostify?"
+
+#: inc/admin/class-woostify-admin.php:561
+msgid "Give us 5 stars!"
+msgstr "Dê-nos 5 estrelas!"
+
+#: inc/admin/class-woostify-meta-boxes.php:122
+msgid " Settings"
+msgstr " Definições"
+
+#: inc/admin/class-woostify-meta-boxes.php:177
+msgid "Container"
+msgstr "Contentor"
+
+#: inc/admin/class-woostify-meta-boxes.php:183,
+#: inc/admin/class-woostify-meta-boxes.php:218,
+#: inc/admin/class-woostify-meta-boxes.php:245,
+#: inc/admin/class-woostify-meta-boxes.php:268
+msgid "Customizer Setting"
+msgstr "Personalizador De Sistemas, Definição De"
+
+#: inc/admin/class-woostify-meta-boxes.php:187,
+#: inc/customizer/sections/shop/shop-single.php:541,
+#: inc/customizer/sections/wordpress/background-image.php:13,
+#: inc/customizer/sections/wordpress/background-image.php:23
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/admin/class-woostify-meta-boxes.php:191,
+#: inc/customizer/sections/wordpress/background-image.php:14,
+#: inc/customizer/sections/wordpress/background-image.php:24
+msgid "Boxed"
+msgstr "Embalado"
+
+#: inc/admin/class-woostify-meta-boxes.php:195,
+#: inc/customizer/sections/wordpress/background-image.php:15,
+#: inc/customizer/sections/wordpress/background-image.php:25
+msgid "Content Boxed"
+msgstr "Conteúdo Em Caixa"
+
+#: inc/admin/class-woostify-meta-boxes.php:199,
+#: inc/customizer/sections/wordpress/background-image.php:16,
+#: inc/customizer/sections/wordpress/background-image.php:26
+msgid "Full Width / Contained"
+msgstr "Largura Total / Contido"
+
+#: inc/admin/class-woostify-meta-boxes.php:203,
+#: inc/customizer/sections/wordpress/background-image.php:17,
+#: inc/customizer/sections/wordpress/background-image.php:27
+msgid "Full Width / Stretched"
+msgstr "Largura Total / Esticado"
+
+#: inc/admin/class-woostify-meta-boxes.php:212,
+#: inc/customizer/register-sections.php:19
+msgid "Sidebar"
+msgstr "Lateral"
+
+#: inc/admin/class-woostify-meta-boxes.php:222
+msgid "Left Sidebar"
+msgstr "Lateral Esquerda"
+
+#: inc/admin/class-woostify-meta-boxes.php:226
+msgid "Right Sidebar"
+msgstr "Lateral Direita"
+
+#: inc/admin/class-woostify-meta-boxes.php:230
+msgid "No Sidebar"
+msgstr "Sem Lateral"
+
+#: inc/admin/class-woostify-meta-boxes.php:239
+msgid "Transparent Header"
+msgstr "Transparente Cabeçalho"
+
+#: inc/admin/class-woostify-meta-boxes.php:249,
+#: inc/admin/class-woostify-meta-boxes.php:272,
+#: inc/woocommerce/class-woostify-woocommerce.php:328,
+#: inc/woocommerce/class-woostify-woocommerce.php:354
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: inc/admin/class-woostify-meta-boxes.php:253,
+#: inc/admin/class-woostify-meta-boxes.php:276,
+#: inc/woocommerce/class-woostify-woocommerce.php:329,
+#: inc/woocommerce/class-woostify-woocommerce.php:355
+msgid "Disabled"
+msgstr "Deficiência"
+
+#: inc/admin/class-woostify-meta-boxes.php:262,
+#: inc/customizer/register-sections.php:15
+msgid "Page Header"
+msgstr "Cabeçalho Da Página"
+
+#: inc/admin/class-woostify-meta-boxes.php:285
+msgid "Disable Sections"
+msgstr "Desativar Seções"
+
+#: inc/admin/class-woostify-meta-boxes.php:293
+msgid "Disable Topbar"
+msgstr "Desativar Topbar"
+
+#: inc/admin/class-woostify-meta-boxes.php:300
+msgid "Disable Header"
+msgstr "Desativar O Cabeçalho"
+
+#: inc/admin/class-woostify-meta-boxes.php:307
+msgid "Disable Footer"
+msgstr "Desativar O Rodapé"
+
+#: inc/customizer/class-woostify-customizer.php:320,
+#: inc/customizer/sections/color/color.php:26
+msgid "Theme Color"
+msgstr "Tema Cor"
+
+#: inc/customizer/class-woostify-customizer.php:322,
+#: inc/customizer/sections/color/color.php:78
+msgid "Link / Accent Color"
+msgstr "Link / Cor De Destaque"
+
+#: inc/customizer/class-woostify-customizer.php:323,
+#: inc/customizer/sections/color/color.php:104
+msgid "Link Hover Color"
+msgstr "Link Hover Cor"
+
+#: inc/customizer/class-woostify-customizer.php:324,
+#: inc/customizer/sections/color/color.php:130
+msgid "Extra Color 1"
+msgstr "Cor Extra 1"
+
+#: inc/customizer/class-woostify-customizer.php:325,
+#: inc/customizer/sections/color/color.php:156
+msgid "Extra Color 2"
+msgstr "Cor Extra 2"
+
+#: inc/customizer/class-woostify-customizer.php:548
+msgid "Sale!"
+msgstr "A venda!"
+
+#: inc/customizer/class-woostify-customizer.php:556
+msgid "Out Of Stock"
+msgstr "Fora Do Estoque"
+
+#: inc/customizer/class-woostify-customizer.php:596,
+#: inc/customizer/sections/shop/shop-single.php:800
+msgid "Recently Viewed Products"
+msgstr "Produtos Visualizados Recentemente"
+
+#: inc/customizer/class-woostify-customizer.php:643
+msgid ""
+"Opps! The page you are looking for is missing for some reasons. Please come "
+"back to homepage"
+msgstr ""
+"Opps! A página que você está procurando está ausente por algumas razões. Por "
+"favor, volte para página inicial"
+
+#: inc/customizer/class-woostify-customizer.php:753,
+#: inc/customizer/class-woostify-customizer.php:769,
+#: inc/customizer/class-woostify-customizer.php:785,
+#: inc/customizer/class-woostify-customizer.php:801,
+#: inc/customizer/class-woostify-customizer.php:817
+msgid "Learn More"
+msgstr "Saiba Mais"
+
+#: inc/customizer/class-woostify-customizer.php:754,
+#: inc/customizer/class-woostify-customizer.php:770,
+#: inc/customizer/class-woostify-customizer.php:786,
+#: inc/customizer/class-woostify-customizer.php:802,
+#: inc/customizer/class-woostify-customizer.php:818
+msgid "More options are coming for this section in our Pro Extensions."
+msgstr "Mais opções estão vindo para esta seção em nosso Pro Extensões."
+
+#: inc/customizer/override-defaults.php:10
+msgid "Site Container"
+msgstr "Contentor De Site"
+
+#: inc/customizer/register-sections.php:12
+msgid "Topbar"
+msgstr "Topbar"
+
+#: inc/customizer/register-sections.php:13
+msgid "Normal Header"
+msgstr "Normal Cabeçalho"
+
+#: inc/customizer/register-sections.php:14
+msgid "Header Transparent"
+msgstr "Cabeçalho Transparente"
+
+#: inc/customizer/register-sections.php:18,
+#: inc/customizer/sections/sidebar/sidebar.php:136
+msgid "Blog Single"
+msgstr "Blog Único"
+
+#: inc/customizer/register-sections.php:20
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer/register-sections.php:21
+msgid "Sticky Footer Bar"
+msgstr "Sticky Barra De Rodapé"
+
+#: inc/customizer/register-sections.php:22
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/register-sections.php:49,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:162,
+#: inc/customizer/sections/shop/shop-page.php:1640,
+#: inc/customizer/sections/shop/shop-single.php:965
+msgid "Color"
+msgstr "Cor"
+
+#: inc/customizer/register-sections.php:76
+msgid "Body"
+msgstr "Corpo"
+
+#: inc/customizer/register-sections.php:85
+msgid "Primary menu"
+msgstr "Menu principal"
+
+#: inc/customizer/register-sections.php:94
+msgid "Heading"
+msgstr "Título"
+
+#: inc/customizer/register-sections.php:104
+msgid "Shop Archive"
+msgstr "Loja De Arquivo"
+
+#: inc/customizer/register-sections.php:113
+msgid "Product Single"
+msgstr "Produto Único"
+
+#: inc/customizer/register-sections.php:122
+msgid "Cart Page"
+msgstr "Página Do Carrinho"
+
+#: inc/customizer/register-sections.php:131
+msgid "Shipping Threshold"
+msgstr "Limite De Envio"
+
+#: inc/customizer/register-sections.php:140
+msgid "Mini Cart"
+msgstr "Mini Carrinho"
+
+#: inc/customizer/register-sections.php:149
+msgid "Performance"
+msgstr "Desempenho"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:23
+msgid "Woostify Recent Post With Thumbnail"
+msgstr "Woostify Recente Postagem Com Miniaturas"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:26
+msgid "List the most recent posts with post titles, thumbnail"
+msgstr "Lista os posts mais recentes, com posto de títulos, em miniatura"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:38
+msgid "Recent Posts"
+msgstr "Posts Recentes"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:49
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:58
+msgid "Number:"
+msgstr "Número:"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:306
+msgid "View more"
+msgstr "Ler mais"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:326,
+#: inc/woocommerce/class-woostify-woocommerce.php:350
+msgid "Single ajax add to cart"
+msgstr "Único ajax adicionar ao carrinho"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:383,
+#: inc/woocommerce/class-woostify-woocommerce.php:401
+msgid "Enable thumbnail for page header BG"
+msgstr "Habilitar o javascript para cabeçalho de página BG"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:385,
+#: inc/woocommerce/class-woostify-woocommerce.php:404
+msgid "Disable"
+msgstr "Desativar"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:386,
+#: inc/woocommerce/class-woostify-woocommerce.php:405,
+#: inc/customizer/sections/shop/shop-page.php:386,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:48
+msgid "Enable"
+msgstr "Activar"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:525
+msgid "Sorry, something went wrong. Please try again!"
+msgstr "Desculpe, algo deu errado. Por favor tente novamente!"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:526
+msgid "Please enter a valid quantity for this product"
+msgstr "Por favor insira um válido quantidades para este produto"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:527,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1217
+msgid "Shipping"
+msgstr "Envio"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:528
+msgid "Calculated at next step"
+msgstr "Calculado no passo seguinte"
+
+#. translators: %s number of product
+#. translators: %s stock quantity
+#: inc/woocommerce/class-woostify-woocommerce.php:636,
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:544
+msgid "Hurry! only %s left in stock."
+msgstr "Apresse-se! só de %s para a esquerda em estoque."
+
+#: inc/woocommerce/class-woostify-woocommerce.php:953
+msgid "Product video url"
+msgstr "Produto url do vídeo"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:974
+msgid "Enter Youtube or Vimeo video url"
+msgstr "Introduza o Youtube ou Vimeo url do vídeo"
+
+#: inc/woocommerce/woostify-woocommerce-archive-product-functions.php:98,
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:318,
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:362,
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:401,
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:418
+msgid "Product image"
+msgstr "Imagem do produto"
+
+#: inc/woocommerce/woostify-woocommerce-archive-product-functions.php:335
+msgid "Filter"
+msgstr "Filtro"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:62
+msgid "Previous Product Image"
+msgstr "Anterior Imagem Do Produto"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:71
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:94
+msgid "Next Product Image"
+msgstr "Próxima Imagem Do Produto"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:100,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:638
+msgid "Next"
+msgstr "Próximo"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:578,
+#: inc/customizer/sections/shop/shop-single.php:209
+msgid "Trust Badge Image"
+msgstr "De Confiança Emblema Imagem"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:400
+msgid "Continue Shopping"
+msgstr "Continuar A Comprar"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:329
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:478
+msgid "Shopping cart"
+msgstr "Carrinho de compras"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:637
+msgid "Prev"
+msgstr "Anterior"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1018,
+#: inc/customizer/sections/shop/shop-page.php:779
+msgid "Product Image"
+msgstr "Imagem Do Produto"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1079
+msgid "Billing Details"
+msgstr "Detalhes De Faturamento"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1083
+msgid "Delivery"
+msgstr "Entrega"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1087
+msgid "Payment"
+msgstr "Pagamento"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1167,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1201
+msgid "Contact"
+msgstr "Contacto"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1170,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1178,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1204,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1212,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1220
+msgid "Change"
+msgstr "Mudança"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1175,
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1209
+msgid "Address"
+msgstr "Endereço"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1239
+msgid "Place Order"
+msgstr "Colocar A Ordem"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1243
+msgid "Back"
+msgstr "De volta"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1244
+msgid "Continue to"
+msgstr "Continuar"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1244
+msgid "Continue to Delivery"
+msgstr "Continuar para Entrega"
+
+#. translators: 1: single item, 2: plural items
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1261
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s item"
+msgstr[1] "%s itens"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1266
+msgid "Order Summary"
+msgstr "Resumo Do Pedido"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1324
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr ""
+"Esta é uma loja de demonstração para fins de teste — sem ordens devem ser "
+"cumpridas."
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1332
+msgid "Dismiss"
+msgstr "Fechar"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1352
+msgid "Search for:"
+msgstr "Procurar por:"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1353
+msgid "Search products&hellip;"
+msgstr "Os produtos de pesquisa..."
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1524
+msgid "Back to cart"
+msgstr "De volta ao carrinho"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1774,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:78,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:105,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:145
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1783,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:81,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:106,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:146
+msgid "Additional information"
+msgstr "Informações adicionais"
+
+#: inc/compatibility/elementor/class-woostify-elementor-single-product-images.php:40
+msgid "Woostify - Default Product Images"
+msgstr "Woostify - Padrão De Imagens Do Produto"
+
+#: inc/compatibility/elementor/class-woostify-elementor-single-product-images.php:71,
+#: inc/customizer/sections/footer/footer.php:27,
+#: inc/customizer/sections/header/header-transparent.php:27,
+#: inc/customizer/sections/header/header.php:27,
+#: inc/customizer/sections/header/topbar.php:27,
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:27,
+#: inc/customizer/sections/page-header/page-header.php:27,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:27,
+#: inc/customizer/sections/shop/mini-cart.php:27,
+#: inc/customizer/sections/shop/shipping-threshold.php:31,
+#: inc/customizer/sections/shop/shop-page.php:27,
+#: inc/customizer/sections/shop/shop-single.php:27,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:27
+msgid "General"
+msgstr "Geral"
+
+#: inc/compatibility/elementor/class-woostify-elementor-single-product-images.php:79
+msgid "Default single product image"
+msgstr "Único padrão de imagem do produto"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:116,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:102,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:142
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:118,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:75,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:87,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:104,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:144
+msgid "Custom"
+msgstr "Personalizado"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:119
+msgid "Wishlist"
+msgstr "Lista de desejos"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:120
+msgid "Cart"
+msgstr "Carrinho"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:121,
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:130
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:139,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:246
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:143
+msgid "Select"
+msgstr "Selecione"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:168
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:104,
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:136,
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:80,
+#: inc/customizer/sections/header/header-transparent.php:214,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:82,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:168
+msgid "Desktop"
+msgstr "Ambiente de trabalho"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:105,
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:138,
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:81
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:106,
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:140,
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:82,
+#: inc/customizer/sections/header/header-transparent.php:215,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:81,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:169
+msgid "Mobile"
+msgstr "Móveis"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:107,
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:118,
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:83
+msgid "Reset"
+msgstr "Repor"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:120
+msgid "Link Values Together"
+msgstr "Valores De Ligação De Juntas"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:84,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:107,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:147
+msgid "Reviews"
+msgstr "Comentários"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:123,
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:163
+msgid "Content"
+msgstr "Conteúdo"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:170
+msgid "Add Tab"
+msgstr "Adicionar Guia"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:70
+msgid "System fonts"
+msgstr "Tipos de letra do sistema"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:71
+msgid "Google fonts"
+msgstr "O Google fontes"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:74
+msgid "Font family"
+msgstr "Família de tipos de letra"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:75
+msgid "Font weight"
+msgstr "Peso da fonte"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:76
+msgid "Text transform"
+msgstr "A transformação de texto"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:78
+msgid "Variants"
+msgstr "Variantes"
+
+#: inc/customizer/sections/404/error-404.php:25,
+#: inc/customizer/sections/footer/footer.php:278
+msgid "Custom Text"
+msgstr "Texto Personalizado"
+
+#: inc/customizer/sections/404/error-404.php:47,
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:188,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:137,
+#: inc/customizer/sections/shop/mini-cart.php:53,
+#: inc/customizer/sections/shop/shop-page.php:1601,
+#: inc/customizer/sections/shop/shop-single.php:926,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:213
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customizer/sections/blog/blog-single.php:25
+msgid "Blog Single Structure"
+msgstr "Blog Estrutura Única"
+
+#: inc/customizer/sections/blog/blog-single.php:31,
+#: inc/customizer/sections/blog/blog.php:130
+msgid "Featured Image"
+msgstr "Imagem De Destaque"
+
+#: inc/customizer/sections/blog/blog-single.php:32,
+#: inc/customizer/sections/blog/blog.php:131,
+#: inc/customizer/sections/page-header/page-header.php:90
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/sections/blog/blog-single.php:33,
+#: inc/customizer/sections/blog/blog.php:132
+msgid "Post Meta"
+msgstr "Post Meta"
+
+#: inc/customizer/sections/blog/blog-single.php:54
+msgid "Blog Single Post Meta"
+msgstr "Blog Post Meta"
+
+#: inc/customizer/sections/blog/blog-single.php:60,
+#: inc/customizer/sections/blog/blog.php:160
+msgid "Publish Date"
+msgstr "Data De Publicação"
+
+#: inc/customizer/sections/blog/blog-single.php:61,
+#: inc/customizer/sections/blog/blog.php:161
+msgid "Author"
+msgstr "Autor"
+
+#: inc/customizer/sections/blog/blog-single.php:62,
+#: inc/customizer/sections/blog/blog.php:162
+msgid "Category"
+msgstr "Categoria"
+
+#: inc/customizer/sections/blog/blog-single.php:63,
+#: inc/customizer/sections/blog/blog.php:163
+msgid "Comments"
+msgstr "Comentários"
+
+#: inc/customizer/sections/blog/blog-single.php:103
+msgid "Author Box"
+msgstr "Autor Caixa"
+
+#: inc/customizer/sections/blog/blog-single.php:124
+msgid "Related Post"
+msgstr "Post Relacionados"
+
+#: inc/customizer/sections/blog/blog.php:27,
+#: inc/customizer/sections/shop/shop-page.php:59
+msgid "Settings"
+msgstr "Definições"
+
+#: inc/customizer/sections/blog/blog.php:28,
+#: inc/customizer/sections/footer/footer.php:28,
+#: inc/customizer/sections/header/header-transparent.php:28,
+#: inc/customizer/sections/header/header.php:28,
+#: inc/customizer/sections/header/topbar.php:28,
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:28,
+#: inc/customizer/sections/page-header/page-header.php:28,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:28,
+#: inc/customizer/sections/shop/shipping-threshold.php:32,
+#: inc/customizer/sections/shop/shop-page.php:60,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:28
+msgid "Design"
+msgstr "Design"
+
+#: inc/customizer/sections/blog/blog.php:51
+msgid "Blog Layout"
+msgstr "Blog Do Layout"
+
+#: inc/customizer/sections/blog/blog.php:83
+msgid "Limit Excerpt"
+msgstr "Limite Trecho"
+
+#: inc/customizer/sections/blog/blog.php:123
+msgid "Blog List Structure"
+msgstr "Blog Estrutura Da Lista"
+
+#: inc/customizer/sections/blog/blog.php:153
+msgid "Blog Post Meta"
+msgstr "Blog Post Meta"
+
+#: inc/customizer/sections/blog/blog.php:186,
+#: inc/customizer/sections/page-header/page-header.php:165
+msgid "Title Color"
+msgstr "Cor Do Título"
+
+#: inc/customizer/sections/blog/blog.php:234,
+#: inc/customizer/sections/shop/shop-page.php:217
+msgid "Title Font Size"
+msgstr "Título Tamanho Da Fonte"
+
+#: inc/customizer/sections/blog/blog.php:285
+msgid "Meta Data Color"
+msgstr "Meta Dados De Cor"
+
+#: inc/customizer/sections/blog/blog.php:331
+msgid "Meta Data Font Size"
+msgstr "Meta De Dados Tamanho Da Fonte"
+
+#: inc/customizer/sections/blog/blog.php:382
+msgid "Description Color"
+msgstr "Descrição De Cores"
+
+#: inc/customizer/sections/blog/blog.php:431
+msgid "Description Font Size"
+msgstr "Descrição Tamanho Do Tipo De Letra"
+
+#: inc/customizer/sections/buttons/button.php:75,
+#: inc/customizer/sections/footer/footer.php:159,
+#: inc/customizer/sections/header/topbar.php:97,
+#: inc/customizer/sections/page-header/page-header.php:215,
+#: inc/customizer/sections/shop/shop-page.php:1082,
+#: inc/customizer/sections/shop/shop-page.php:1320,
+#: inc/customizer/sections/site-container/site-container.php:20
+msgid "Background Color"
+msgstr "Cor De Fundo"
+
+#: inc/customizer/sections/buttons/button.php:123,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:224,
+#: inc/customizer/sections/shop/shop-page.php:1106,
+#: inc/customizer/sections/shop/shop-page.php:1344,
+#: inc/customizer/sections/shop/shop-page.php:1670,
+#: inc/customizer/sections/shop/shop-single.php:995
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: inc/customizer/sections/footer/footer.php:48
+msgid "Footer Display"
+msgstr "Rodapé De Exibição"
+
+#: inc/customizer/sections/footer/footer.php:71,
+#: inc/customizer/sections/header/topbar.php:122,
+#: inc/customizer/sections/page-header/page-header.php:301
+msgid "Space"
+msgstr "Espaço"
+
+#: inc/customizer/sections/footer/footer.php:104
+msgid "Widget Columns"
+msgstr "Widget Colunas"
+
+#: inc/customizer/sections/footer/footer.php:209
+msgid "Link Color"
+msgstr "Cor De Link"
+
+#: inc/customizer/sections/header/header-transparent.php:48
+msgid "Enable Transparent Header"
+msgstr "Activar Transparente Cabeçalho"
+
+#: inc/customizer/sections/header/header-transparent.php:70
+msgid "Disable on 404, Search & Archives"
+msgstr "Desativar no 404, de Pesquisa e de Arquivos"
+
+#: inc/customizer/sections/header/header-transparent.php:93
+msgid "Disable on Blog page"
+msgstr "Desactivar na página do Blog"
+
+#: inc/customizer/sections/header/header-transparent.php:116
+msgid "Disable on Pages"
+msgstr "Desactivar nas Páginas"
+
+#: inc/customizer/sections/header/header-transparent.php:139
+msgid "Disable on Posts"
+msgstr "Desactivar nas Postagens"
+
+#: inc/customizer/sections/header/header-transparent.php:162
+msgid "Disable on Shop page"
+msgstr "Desactivar na Loja de página"
+
+#: inc/customizer/sections/header/header-transparent.php:185
+msgid "Disable on Product page"
+msgstr "Desativar na página de Produto"
+
+#: inc/customizer/sections/header/header-transparent.php:209,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:163
+msgid "Enable On"
+msgstr "Habilitar No"
+
+#: inc/customizer/sections/header/header-transparent.php:216,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:170
+msgid "Desktop + Mobile"
+msgstr "Ambiente De Trabalho + Mobile"
+
+#: inc/customizer/sections/header/header-transparent.php:237
+msgid "Header Transparent Logo"
+msgstr "Cabeçalho Transparente Logotipo"
+
+#: inc/customizer/sections/header/header-transparent.php:260
+msgid "Menu Transparent Color"
+msgstr "Menu Cor Transparente"
+
+#: inc/customizer/sections/header/header-transparent.php:285
+msgid "Icon Transparent Color"
+msgstr "Ícone De Cor Transparente"
+
+#: inc/customizer/sections/header/header-transparent.php:310
+msgid "Count Transparent Background"
+msgstr "Contagem De Plano De Fundo Transparente"
+
+#: inc/customizer/sections/header/header-transparent.php:356
+msgid "Bottom Border Width"
+msgstr "Largura Da Borda Inferior"
+
+#: inc/customizer/sections/header/header-transparent.php:390,
+#: inc/customizer/sections/shop/shop-page.php:524,
+#: inc/customizer/sections/shop/shop-page.php:901
+msgid "Border Color"
+msgstr "Cor Da Borda"
+
+#: inc/customizer/sections/header/header.php:48
+msgid "Header Layout"
+msgstr "Layout Do Cabeçalho"
+
+#: inc/customizer/sections/header/header.php:77
+msgid "Header Background"
+msgstr "Fundo Do Cabeçalho"
+
+#: inc/customizer/sections/header/header.php:124
+msgid "Elements"
+msgstr "Elementos"
+
+#: inc/customizer/sections/header/header.php:146
+msgid "Header Menu"
+msgstr "No Menu Do Cabeçalho"
+
+#: inc/customizer/sections/header/header.php:169
+msgid "Menu Breakpoint"
+msgstr "Menu De Ponto De Interrupção"
+
+#: inc/customizer/sections/header/header.php:224
+msgid "Enable Search"
+msgstr "Habilitar A Pesquisa"
+
+#: inc/customizer/sections/header/header.php:249
+msgid "Search Only Product"
+msgstr "Procurar Somente Do Produto"
+
+#: inc/customizer/sections/header/header.php:295
+msgid "Wishlist Icon"
+msgstr "Lista De Desejos Ícone"
+
+#: inc/customizer/sections/header/header.php:340
+msgid "Account/Dashboard"
+msgstr "Conta/Dashboard"
+
+#: inc/customizer/sections/header/header.php:363
+msgid "Enable Login Popup"
+msgstr "Activar Início De Sessão Pop-Up"
+
+#: inc/customizer/sections/header/header.php:407
+msgid "Shopping Cart Icon"
+msgstr "Ícone De Carrinho De Compras"
+
+#: inc/customizer/sections/header/header.php:430
+msgid "Show Subtotal"
+msgstr "Mostrar Subtotal"
+
+#: inc/customizer/sections/header/header.php:454
+msgid "Hide Cart Count When Zero"
+msgstr "Ocultar Carrinho De Contagem De Zero Quando"
+
+#: inc/customizer/sections/header/header.php:478
+msgid "Hide Cart Subtotal When Zero"
+msgstr "Ocultar Carrinho Subtotal Quando O Zero"
+
+#: inc/customizer/sections/header/topbar.php:48
+msgid "Topbar Display"
+msgstr "Topbar De Exibição"
+
+#: inc/customizer/sections/header/topbar.php:176
+msgid "Content Left"
+msgstr "Conteúdo Da Esquerda"
+
+#: inc/customizer/sections/header/topbar.php:200
+msgid "Content Center"
+msgstr "Conteúdo Center"
+
+#: inc/customizer/sections/header/topbar.php:224
+msgid "Content Right"
+msgstr "Conteúdo"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:49
+msgid "Hide Search Box"
+msgstr "Ocultar Caixa De Pesquisa"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:72
+msgid "Hide Login/Register Link"
+msgstr "Ocultar Login/Register Link"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:94
+msgid "Show Categories Menu on Mobile"
+msgstr "Mostrar o Menu de Categorias no Celular"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:116
+msgid "Primary Menu Tab Title"
+msgstr "Principal Menu Guia De Título"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:138
+msgid "Categories Menu Tab Title"
+msgstr "Menu De Categorias Título Da Guia"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:163
+msgid "Hamburger Icon"
+msgstr "Hamburger Ícone"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:222,
+#: inc/customizer/sections/shop/shop-page.php:1035,
+#: inc/customizer/sections/shop/shop-page.php:1273,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:284
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:261
+msgid "Tab Color"
+msgstr "Guia De Cores"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:300
+msgid "Tab background"
+msgstr "Guia plano de fundo"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:330
+msgid "Tab Padding"
+msgstr "Guia De Preenchimento"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:345,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:606
+msgid "Top"
+msgstr "Topo"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:346,
+#: inc/customizer/sections/page-header/page-header.php:142,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:113,
+#: inc/customizer/sections/shop/shop-page.php:583,
+#: inc/customizer/sections/shop/shop-page.php:1013,
+#: inc/customizer/sections/shop/shop-page.php:1250,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:607
+msgid "Right"
+msgstr "Direito"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:347,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:608
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:348,
+#: inc/customizer/sections/page-header/page-header.php:140,
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:114,
+#: inc/customizer/sections/shop/shop-page.php:581,
+#: inc/customizer/sections/shop/shop-page.php:1012,
+#: inc/customizer/sections/shop/shop-page.php:1249,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:609
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:371
+msgid "Nav Tab Spacing Bottom"
+msgstr "Nav Guia Espaçamento Inferior"
+
+#: inc/customizer/sections/page-header/page-header.php:48
+msgid "Page Header Display"
+msgstr "Cabeçalho Da Página De Exibição"
+
+#: inc/customizer/sections/page-header/page-header.php:112,
+#: inc/customizer/sections/shop/shop-page.php:102,
+#: inc/customizer/sections/shop/shop-single.php:58
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/customizer/sections/page-header/page-header.php:135
+msgid "Text Align"
+msgstr "Alinhar Texto"
+
+#: inc/customizer/sections/page-header/page-header.php:141,
+#: inc/customizer/sections/shop/shop-page.php:582
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer/sections/page-header/page-header.php:143
+msgid "Page Title / Breadcrumb"
+msgstr "Título Da Página / Breadcrumb"
+
+#: inc/customizer/sections/page-header/page-header.php:190
+msgid "Breadcrumb Color"
+msgstr "Trilha Cor"
+
+#: inc/customizer/sections/page-header/page-header.php:240
+msgid "Background Image"
+msgstr "Imagem De Fundo"
+
+#: inc/customizer/sections/page-header/page-header.php:263
+msgid "Background Size"
+msgstr "Plano De Fundo Tamanho"
+
+#: inc/customizer/sections/page-header/page-header.php:269
+msgid "Cover"
+msgstr "Cobertura"
+
+#: inc/customizer/sections/page-header/page-header.php:270
+msgid "Contain"
+msgstr "Conter"
+
+#: inc/customizer/sections/page-header/page-header.php:292
+msgid "Background Repeat"
+msgstr "Fundo De Repetição"
+
+#: inc/customizer/sections/page-header/page-header.php:298
+msgid "No Repeat"
+msgstr "Sem Repetir"
+
+#: inc/customizer/sections/page-header/page-header.php:299
+msgid "Repeat X"
+msgstr "Repita X"
+
+#: inc/customizer/sections/page-header/page-header.php:300
+msgid "Repeat Y"
+msgstr "Repita Y"
+
+#: inc/customizer/sections/page-header/page-header.php:302
+msgid "Round"
+msgstr "Rodada"
+
+#: inc/customizer/sections/page-header/page-header.php:324
+msgid "Background Position"
+msgstr "Posição Do Fundo"
+
+#: inc/customizer/sections/page-header/page-header.php:329
+msgid "Left Top"
+msgstr "No Alto, À Esquerda"
+
+#: inc/customizer/sections/page-header/page-header.php:330
+msgid "Left Center"
+msgstr "Centro-Esquerda"
+
+#: inc/customizer/sections/page-header/page-header.php:331
+msgid "Left Bottom"
+msgstr "Inferior Esquerdo"
+
+#: inc/customizer/sections/page-header/page-header.php:332
+msgid "Center Top"
+msgstr "Centro Superior"
+
+#: inc/customizer/sections/page-header/page-header.php:333
+msgid "Center Center"
+msgstr "Centro Centro"
+
+#: inc/customizer/sections/page-header/page-header.php:334
+msgid "Center Bottom"
+msgstr "Centro Inferior"
+
+#: inc/customizer/sections/page-header/page-header.php:335
+msgid "Right Top"
+msgstr "Superior Direito"
+
+#: inc/customizer/sections/page-header/page-header.php:336
+msgid "Right Center"
+msgstr "Direito Centro"
+
+#: inc/customizer/sections/page-header/page-header.php:337
+msgid "Right Bottom"
+msgstr "Inferior Direito"
+
+#: inc/customizer/sections/page-header/page-header.php:359
+msgid "Background Attachment"
+msgstr "Fundo Anexo"
+
+#: inc/customizer/sections/page-header/page-header.php:365
+msgid "Fixed"
+msgstr "Fixo"
+
+#: inc/customizer/sections/page-header/page-header.php:366
+msgid "Local"
+msgstr "Local"
+
+#: inc/customizer/sections/page-header/page-header.php:408
+msgid "Padding Top"
+msgstr "Preenchimento Topo"
+
+#: inc/customizer/sections/page-header/page-header.php:442
+msgid "Padding Bottom"
+msgstr "Preenchimento De Fundo"
+
+#: inc/customizer/sections/page-header/page-header.php:476
+msgid "Margin Bottom"
+msgstr "Margem Inferior"
+
+#: inc/customizer/sections/performance/performance.php:26
+msgid "Enable Dynamic CSS"
+msgstr "Activar Dinâmica CSS"
+
+#: inc/customizer/sections/performance/performance.php:47
+msgid "Dynamic CSS Print Method"
+msgstr "Dinâmica CSS Método de Impressão"
+
+#: inc/customizer/sections/performance/performance.php:48
+msgid "Click the button to resset dynamic css file."
+msgstr "Clique no botão para resset dinâmica arquivo css."
+
+#: inc/customizer/sections/performance/performance.php:51
+msgid "Reset Dynamic CSS File"
+msgstr "Repor Dinâmica Arquivo CSS"
+
+#: inc/customizer/sections/performance/performance.php:73
+msgid "Load Google Fonts Locally"
+msgstr "Carga Google Fontes Localmente"
+
+#: inc/customizer/sections/performance/performance.php:94
+msgid "Preload Local Font"
+msgstr "Pré-Carga Local Da Fonte"
+
+#: inc/customizer/sections/performance/performance.php:115
+msgid "Clear Local Fonts Cache"
+msgstr "Claro Local Fontes De Cache"
+
+#: inc/customizer/sections/performance/performance.php:116
+msgid "Click the button to reset the local fonts cache."
+msgstr "Clique no botão para redefinir o local fontes de cache."
+
+#: inc/customizer/sections/performance/performance.php:142
+msgid "Disable Woocommerce Blocks CSS"
+msgstr "Desativar o Woocommerce Blocos de CSS"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:73
+msgid "Scroll On"
+msgstr "Desloque-Se Em"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:80
+msgid "Mobile + Desktop"
+msgstr "Mobile + Ambiente De Trabalho"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:106,
+#: inc/customizer/sections/shop/shop-page.php:1005,
+#: inc/customizer/sections/shop/shop-page.php:1482,
+#: inc/customizer/sections/shop/shop-page.php:1538,
+#: inc/customizer/sections/shop/shop-single.php:563
+msgid "Position"
+msgstr "Posição"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:188,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:333
+msgid "Icon Size"
+msgstr "Tamanho Do Ícone"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:259
+msgid "Offset Bottom"
+msgstr "Deslocamento Inferior"
+
+#: inc/customizer/sections/shop/cart-page.php:29
+msgid "Cart Page Layout"
+msgstr "Carrinho De Layout De Página"
+
+#: inc/customizer/sections/shop/cart-page.php:58
+msgid "Sticky Proceed To Checkout Button"
+msgstr "Sticky Vá Para Botão Do Google Checkout"
+
+#: inc/customizer/sections/shop/cart-page.php:59,
+#: inc/customizer/sections/shop/checkout-page.php:82
+msgid "This option only available on mobile devices"
+msgstr "Essa opção disponível apenas em dispositivos móveis"
+
+#: inc/customizer/sections/shop/checkout-page.php:29
+msgid "Checkout Page Layout"
+msgstr "Página De Finalização De Layout"
+
+#: inc/customizer/sections/shop/checkout-page.php:59
+msgid "Distraction Free Checkout"
+msgstr "Livre De Distracções Checkout"
+
+#: inc/customizer/sections/shop/checkout-page.php:81
+msgid "Sticky Place Order Button"
+msgstr "Sticky Lugar, A Fim De Botão"
+
+#: inc/customizer/sections/shop/mini-cart.php:76
+msgid "Empty Cart Message"
+msgstr "Mensagem Carrinho Vazio"
+
+#: inc/customizer/sections/shop/mini-cart.php:98
+msgid "Enable Empty Cart Button"
+msgstr "Activar Esvaziar Carrinho"
+
+#: inc/customizer/sections/shop/mini-cart.php:117
+msgid "Top content"
+msgstr "Conteúdo principal"
+
+#: inc/customizer/sections/shop/mini-cart.php:141,
+#: inc/customizer/sections/shop/mini-cart.php:215,
+#: inc/customizer/sections/shop/mini-cart.php:289
+msgid "Select Content"
+msgstr "Selecione O Conteúdo"
+
+#: inc/customizer/sections/shop/mini-cart.php:148,
+#: inc/customizer/sections/shop/mini-cart.php:222,
+#: inc/customizer/sections/shop/mini-cart.php:296,
+#: inc/customizer/sections/shop/shop-page.php:467,
+#: inc/customizer/sections/shop/shop-page.php:814,
+#: inc/customizer/sections/shop/shop-page.php:844,
+#: inc/customizer/sections/shop/shop-page.php:1251
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/customizer/sections/shop/mini-cart.php:149,
+#: inc/customizer/sections/shop/mini-cart.php:171,
+#: inc/customizer/sections/shop/mini-cart.php:223,
+#: inc/customizer/sections/shop/mini-cart.php:245,
+#: inc/customizer/sections/shop/mini-cart.php:297,
+#: inc/customizer/sections/shop/mini-cart.php:319
+msgid "Custom HTML"
+msgstr "HTML personalizado"
+
+#: inc/customizer/sections/shop/mini-cart.php:150,
+#: inc/customizer/sections/shop/mini-cart.php:224,
+#: inc/customizer/sections/shop/mini-cart.php:298
+msgid "Free Shipping Threshold"
+msgstr "Frete Grátis Limite"
+
+#: inc/customizer/sections/shop/mini-cart.php:191
+msgid "Before checkout button"
+msgstr "Antes de finalizar compra"
+
+#: inc/customizer/sections/shop/mini-cart.php:265
+msgid "After checkout button"
+msgstr "Após o check-out botão"
+
+#: inc/customizer/sections/shop/product-catalog.php:29
+msgid "Catalog Mode"
+msgstr "Catálogo De Modo"
+
+#: inc/customizer/sections/shop/product-catalog.php:30
+msgid "This option will hide all button add to cart on site"
+msgstr ""
+"Esta opção ocultará todos os botão de adicionar ao carrinho de compras no "
+"site"
+
+#: inc/customizer/sections/shop/product-catalog.php:52
+msgid "Hide product variations"
+msgstr "Ocultar variações de produto"
+
+#: inc/customizer/sections/shop/product-catalog.php:53
+msgid ""
+"Use this option to hide product variations when enabling the catalog mode."
+msgstr ""
+"Utilize esta opção para ocultar as variações do produto ao ativar o catálogo "
+"modo."
+
+#: inc/customizer/sections/shop/product-catalog.php:92
+msgid "Products Per Row"
+msgstr "Produtos Por Linha"
+
+#: inc/customizer/sections/shop/product-catalog.php:140
+msgid "Products Per Page"
+msgstr "Produtos Por Página"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:52
+msgid "Enable Shipping Threshold"
+msgstr "Permitir O Envio De Limite"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:74
+msgid "Enable Confetti Effect"
+msgstr "Activar Confete Efeito"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:75
+msgid "Show confetti effect when reach to 100%"
+msgstr "Mostrar confete efeito quando chegar aos 100%"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:97
+msgid "Enable Progress Bar"
+msgstr "Ativar A Barra De Progresso"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:119
+msgid "Goal Amount"
+msgstr "O Valor Da Meta"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:120
+msgid ""
+"Amount to reach 100%. Note: use <b><code>.</code></b> for Decimal separator"
+msgstr ""
+
+#: inc/customizer/sections/shop/shipping-threshold.php:143
+msgid "Initial Message"
+msgstr "Mensagem Inicial"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:144
+msgid ""
+"Message to show before reaching the goal. Use shortcode <b><code>"
+"[missing_amount]</code></b> to display the amount left to reach the minimum"
+msgstr ""
+
+#: inc/customizer/sections/shop/shipping-threshold.php:167
+msgid "Success Message"
+msgstr "A Mensagem De Sucesso"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:168
+msgid "Message to show after reaching 100%."
+msgstr "Mensagem para mostrar depois de atingir 100%."
+
+#: inc/customizer/sections/shop/shipping-threshold.php:204
+msgid "Message Color"
+msgstr "A Cor Da Mensagem"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:245
+msgid "Progress Bar Color"
+msgstr "Barra De Progresso Cor"
+
+#: inc/customizer/sections/shop/shop-page.php:80
+msgid "Shop Title"
+msgstr "Loja Título"
+
+#: inc/customizer/sections/shop/shop-page.php:124
+msgid "Result Count"
+msgstr "Resultado Contagem"
+
+#: inc/customizer/sections/shop/shop-page.php:146
+msgid "Product Filtering"
+msgstr "Produto De Filtragem"
+
+#: inc/customizer/sections/shop/shop-page.php:169
+msgid "Product Title Color"
+msgstr "Título Produto De Cor"
+
+#: inc/customizer/sections/shop/shop-page.php:266
+msgid "Price Color"
+msgstr "Preço De Cor"
+
+#: inc/customizer/sections/shop/shop-page.php:314
+msgid "Price Font Size"
+msgstr "Preço Tamanho Da Fonte"
+
+#: inc/customizer/sections/shop/shop-page.php:362
+msgid "Infinite Scroll"
+msgstr "Rolagem Infinita"
+
+#: inc/customizer/sections/shop/shop-page.php:387
+msgid "Enable infinite scroll for WooCommerce category/product archive."
+msgstr ""
+"Ativar a rolagem infinita para WooCommerce categoria/produto de arquivamento."
+
+#: inc/customizer/sections/shop/shop-page.php:408
+msgid "Loading Type"
+msgstr "Tipo De Carga"
+
+#: inc/customizer/sections/shop/shop-page.php:415
+msgid "Button (On click)"
+msgstr "Botão (clique)"
+
+#: inc/customizer/sections/shop/shop-page.php:416
+msgid "Auto (On scroll)"
+msgstr "Auto (Em deslocamento)"
+
+#: inc/customizer/sections/shop/shop-page.php:435
+msgid "Product Card"
+msgstr "Produto Cartão"
+
+#: inc/customizer/sections/shop/shop-page.php:460,
+#: inc/customizer/sections/shop/shop-page.php:837
+msgid "Border Style"
+msgstr "Estilo De Borda"
+
+#: inc/customizer/sections/shop/shop-page.php:468,
+#: inc/customizer/sections/shop/shop-page.php:845
+msgid "Solid"
+msgstr "Sólidos"
+
+#: inc/customizer/sections/shop/shop-page.php:469,
+#: inc/customizer/sections/shop/shop-page.php:846
+msgid "Dashed"
+msgstr "Tracejada"
+
+#: inc/customizer/sections/shop/shop-page.php:470,
+#: inc/customizer/sections/shop/shop-page.php:847
+msgid "Dotted"
+msgstr "Pontilhada"
+
+#: inc/customizer/sections/shop/shop-page.php:471,
+#: inc/customizer/sections/shop/shop-page.php:848
+msgid "Double"
+msgstr "Duplo"
+
+#: inc/customizer/sections/shop/shop-page.php:492,
+#: inc/customizer/sections/shop/shop-page.php:869
+msgid "Border Width"
+msgstr "Largura Da Borda"
+
+#: inc/customizer/sections/shop/shop-page.php:543
+msgid "Product Content"
+msgstr "Conteúdo Do Produto"
+
+#: inc/customizer/sections/shop/shop-page.php:574
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: inc/customizer/sections/shop/shop-page.php:623
+msgid "Product Title"
+msgstr "Título Produto"
+
+#: inc/customizer/sections/shop/shop-page.php:644
+msgid "Product Category"
+msgstr "Categoria De Produto"
+
+#: inc/customizer/sections/shop/shop-page.php:665
+msgid "Product Rating"
+msgstr "Classificação De Produtos"
+
+#: inc/customizer/sections/shop/shop-page.php:686
+msgid "Product Price"
+msgstr "Preço Do Produto"
+
+#: inc/customizer/sections/shop/shop-page.php:707
+msgid "Product Quantity"
+msgstr "Quantidade De Produtos"
+
+#: inc/customizer/sections/shop/shop-page.php:728
+msgid "Equal Product Content"
+msgstr "Produto Igual Conteúdo"
+
+#: inc/customizer/sections/shop/shop-page.php:749
+msgid "Product Content Min Height"
+msgstr "Conteúdo Do Produto Altura Mínima"
+
+#: inc/customizer/sections/shop/shop-page.php:807
+msgid "Hover Effect"
+msgstr "Efeito Hover"
+
+#: inc/customizer/sections/shop/shop-page.php:815
+msgid "Zoom"
+msgstr "Zoom"
+
+#: inc/customizer/sections/shop/shop-page.php:816
+msgid "Swap"
+msgstr "Swap"
+
+#: inc/customizer/sections/shop/shop-page.php:922
+msgid "Equal Image Height"
+msgstr "De Igual Altura Da Imagem"
+
+#: inc/customizer/sections/shop/shop-page.php:944
+msgid "Image Height"
+msgstr "Altura Da Imagem"
+
+#: inc/customizer/sections/shop/shop-page.php:974
+msgid "Sale Tag"
+msgstr "Venda Tag"
+
+#: inc/customizer/sections/shop/shop-page.php:1138
+msgid "Sale Percentage"
+msgstr "Venda De Porcentagem"
+
+#: inc/customizer/sections/shop/shop-page.php:1160
+msgid "Sale Square"
+msgstr "Venda Quadrado"
+
+#: inc/customizer/sections/shop/shop-page.php:1182,
+#: inc/customizer/sections/shop/shop-page.php:1399
+msgid "Size"
+msgstr "Tamanho"
+
+#: inc/customizer/sections/shop/shop-page.php:1212
+msgid "Out Of Stock Label"
+msgstr "Fora De Estoque, Etiqueta"
+
+#: inc/customizer/sections/shop/shop-page.php:1242,
+#: inc/customizer/sections/shop/shop-single.php:662,
+#: inc/customizer/sections/shop/shop-single.php:825
+msgid "Display"
+msgstr "Exibir"
+
+#: inc/customizer/sections/shop/shop-page.php:1377
+msgid "Square"
+msgstr "Praça"
+
+#: inc/customizer/sections/shop/shop-page.php:1429
+msgid "Wishlist Button"
+msgstr "Lista De Desejos Botão"
+
+#: inc/customizer/sections/shop/shop-page.php:1453
+msgid "Support For Plugin"
+msgstr "Suporte Para O Plugin"
+
+#: inc/customizer/sections/shop/shop-page.php:1460
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce lista de Desejos"
+
+#: inc/customizer/sections/shop/shop-page.php:1461
+msgid "TI WooCommerce Wishlist"
+msgstr "TI WooCommerce lista de Desejos"
+
+#: inc/customizer/sections/shop/shop-page.php:1509
+msgid "Add To Cart Button"
+msgstr "Adicionar Ao Carrinho"
+
+#: inc/customizer/sections/shop/shop-page.php:1569
+msgid "Cart Icon"
+msgstr "Ícone Do Seu Carrinho"
+
+#: inc/customizer/sections/shop/shop-single.php:79
+msgid "Product Navigation"
+msgstr "Produto De Navegação"
+
+#: inc/customizer/sections/shop/shop-single.php:100
+msgid "Ajax Single Add To Cart"
+msgstr "Ajax Único Adicionar Ao Carrinho"
+
+#: inc/customizer/sections/shop/shop-single.php:121
+msgid "Stock Label"
+msgstr "Rótulo Estoque"
+
+#: inc/customizer/sections/shop/shop-single.php:142
+msgid "Loading Bar"
+msgstr "Barra De Carregamento"
+
+#: inc/customizer/sections/shop/shop-single.php:163
+msgid "Min stock to show"
+msgstr "Min estoque para mostrar"
+
+#: inc/customizer/sections/shop/shop-single.php:164
+msgid "Default = 0 show stock"
+msgstr "Padrão = 0 mostrar estoque"
+
+#: inc/customizer/sections/shop/shop-single.php:186
+msgid "Content Background"
+msgstr "Conteúdo Do Plano De Fundo"
+
+#: inc/customizer/sections/shop/shop-single.php:228
+msgid "Product Images"
+msgstr "Imagens Do Produto"
+
+#: inc/customizer/sections/shop/shop-single.php:257
+msgid "Gallery Style"
+msgstr "Galeria De Estilo"
+
+#: inc/customizer/sections/shop/shop-single.php:262
+msgid "Woocommerce Default"
+msgstr "Woocommerce Padrão"
+
+#: inc/customizer/sections/shop/shop-single.php:263
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/customizer/sections/shop/shop-single.php:284
+msgid "Gallery Layout"
+msgstr "Galeria De Layout"
+
+#: inc/customizer/sections/shop/shop-single.php:314
+msgid "Image Loading Effect"
+msgstr "Carregamento De Imagem Efeito"
+
+#: inc/customizer/sections/shop/shop-single.php:335
+msgid "Gallery Zoom Effect"
+msgstr "Galeria De Efeito De Zoom"
+
+#: inc/customizer/sections/shop/shop-single.php:356
+msgid "Gallery Lightbox Effect"
+msgstr "Galeria Lightbox."
+
+#: inc/customizer/sections/shop/shop-single.php:377
+msgid "Top Space"
+msgstr "Top Espaço"
+
+#: inc/customizer/sections/shop/shop-single.php:399
+msgid "Bottom Space"
+msgstr "Parte Inferior Do Espaço"
+
+#: inc/customizer/sections/shop/shop-single.php:419
+msgid "Product Meta"
+msgstr "Produto Meta"
+
+#: inc/customizer/sections/shop/shop-single.php:445
+msgid "SKU"
+msgstr "SKU"
+
+#: inc/customizer/sections/shop/shop-single.php:467
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/customizer/sections/shop/shop-single.php:508
+msgid "Product Data Tabs"
+msgstr "Produto De Guias De Dados"
+
+#: inc/customizer/sections/shop/shop-single.php:542
+msgid "Accordion"
+msgstr "Acordeão"
+
+#: inc/customizer/sections/shop/shop-single.php:570
+msgid "In Product Summary"
+msgstr "No Resumo Do Produto"
+
+#: inc/customizer/sections/shop/shop-single.php:571
+msgid "After Product Summary"
+msgstr "Depois De Resumo Do Produto"
+
+#: inc/customizer/sections/shop/shop-single.php:592
+msgid "Open first tab by default"
+msgstr "Abra primeiro guia por padrão"
+
+#: inc/customizer/sections/shop/shop-single.php:615,
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:191
+msgid "Items"
+msgstr "Itens"
+
+#: inc/customizer/sections/shop/shop-single.php:634
+msgid "Related Products"
+msgstr "Produtos Relacionados"
+
+#: inc/customizer/sections/shop/shop-single.php:684
+msgid "Columns"
+msgstr "Colunas"
+
+#: inc/customizer/sections/shop/shop-single.php:717
+msgid "Total Products"
+msgstr "Total De Produtos"
+
+#: inc/customizer/sections/shop/shop-single.php:739
+msgid "Enable Carousel"
+msgstr "Activar Carrossel"
+
+#: inc/customizer/sections/shop/shop-single.php:760
+msgid "Show Arrows"
+msgstr "Mostrar Setas"
+
+#: inc/customizer/sections/shop/shop-single.php:781
+msgid "Show Dots"
+msgstr "Mostrar Pontos"
+
+#: inc/customizer/sections/shop/shop-single.php:849
+msgid "Section Title"
+msgstr "Título De Seção"
+
+#: inc/customizer/sections/shop/shop-single.php:871
+msgid "Total Product"
+msgstr "Total De Produtos"
+
+#: inc/customizer/sections/shop/shop-single.php:888
+msgid "Button Add To Cart"
+msgstr "Botão Adicionar Ao Carrinho"
+
+#: inc/customizer/sections/sidebar/sidebar.php:32,
+#: inc/customizer/sections/sidebar/sidebar.php:63,
+#: inc/customizer/sections/sidebar/sidebar.php:113,
+#: inc/customizer/sections/sidebar/sidebar.php:144,
+#: inc/customizer/sections/sidebar/sidebar.php:196,
+#: inc/customizer/sections/sidebar/sidebar.php:229
+msgid "No sidebar"
+msgstr "Sem lateral"
+
+#: inc/customizer/sections/sidebar/sidebar.php:33,
+#: inc/customizer/sections/sidebar/sidebar.php:64,
+#: inc/customizer/sections/sidebar/sidebar.php:114,
+#: inc/customizer/sections/sidebar/sidebar.php:145,
+#: inc/customizer/sections/sidebar/sidebar.php:197,
+#: inc/customizer/sections/sidebar/sidebar.php:230
+msgid "Left sidebar"
+msgstr "Lateral esquerda"
+
+#: inc/customizer/sections/sidebar/sidebar.php:34,
+#: inc/customizer/sections/sidebar/sidebar.php:65,
+#: inc/customizer/sections/sidebar/sidebar.php:115,
+#: inc/customizer/sections/sidebar/sidebar.php:146,
+#: inc/customizer/sections/sidebar/sidebar.php:198,
+#: inc/customizer/sections/sidebar/sidebar.php:231
+msgid "Right sidebar"
+msgstr "Lateral direita"
+
+#: inc/customizer/sections/sidebar/sidebar.php:55
+msgid "Page"
+msgstr "Página"
+
+#: inc/customizer/sections/sidebar/sidebar.php:105
+msgid "Blog List"
+msgstr "Blog Da Lista"
+
+#: inc/customizer/sections/sidebar/sidebar.php:188
+msgid "Shop/Product Archive"
+msgstr "Loja/Produto De Arquivo"
+
+#: inc/customizer/sections/sidebar/sidebar.php:199
+msgid "Offcanvas sidebar"
+msgstr "Offcanvas lateral"
+
+#: inc/customizer/sections/sidebar/sidebar.php:221
+msgid "Shop Single"
+msgstr "Loja Único"
+
+#: inc/customizer/sections/sidebar/sidebar.php:273
+msgid "Sidebar Width"
+msgstr "Lateral Largura"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:71
+msgid "Hide When Scroll"
+msgstr "Esconder Quando Rolar"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:94
+msgid "Hide On Product Single Page"
+msgstr "Esconder-Se No Produto De Página Única"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:117
+msgid "Hide On Cart Page"
+msgstr "Ocultar Na Página Do Carrinho"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:140
+msgid "Hide On Checkout Page"
+msgstr "Ocultar Na Página De Pagamento"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:402
+msgid "Icon Spacing"
+msgstr "Espaçamento De Ícone"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:472
+msgid "Text Font Size"
+msgstr "Tamanho De Fonte De Texto"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:523
+msgid "Text Font Weight"
+msgstr "Fonte Do Texto De Peso"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:528
+msgid "300"
+msgstr "300"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:529
+msgid "400"
+msgstr "400"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:530
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:531
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:532
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:533
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:534
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:575
+msgid "Spacing"
+msgstr "Espaçamento"
+
+#: inc/customizer/sections/typography/body.php:74
+msgid "Body Font"
+msgstr "Fonte Do Corpo"
+
+#: inc/customizer/sections/typography/body.php:103,
+#: inc/customizer/sections/typography/heading.php:175,
+#: inc/customizer/sections/typography/primary-menu.php:140,
+#: inc/customizer/sections/typography/primary-menu.php:272
+msgid "Font Size"
+msgstr "Tamanho Da Fonte"
+
+#: inc/customizer/sections/typography/body.php:138,
+#: inc/customizer/sections/typography/heading.php:103,
+#: inc/customizer/sections/typography/primary-menu.php:175,
+#: inc/customizer/sections/typography/primary-menu.php:307
+msgid "Line Height"
+msgstr "Altura Da Linha"
+
+#: inc/customizer/sections/typography/heading.php:74
+msgid "Heading Font"
+msgstr "Fonte Do Título"
+
+#: inc/customizer/sections/typography/primary-menu.php:72
+msgid "Menu Font"
+msgstr "Menu Tipo De Letra"
+
+#: inc/customizer/sections/typography/primary-menu.php:115
+msgid "Parent Menu"
+msgstr "Menu Principal"
+
+#: inc/customizer/sections/typography/primary-menu.php:207
+msgid "Parent Menu Color"
+msgstr "Menu Principal Cor"
+
+#: inc/customizer/sections/typography/primary-menu.php:247
+msgid "Sub Menu"
+msgstr "Menu Secundário"
+
+#: inc/customizer/sections/typography/primary-menu.php:339
+msgid "Sub-menu Color"
+msgstr "Sub-menu Cor"
+
+#: inc/customizer/sections/wordpress/background-image.php:66
+msgid "Width"
+msgstr "Largura"
+
+#: inc/customizer/sections/wordpress/background-image.php:85
+msgid "Default Container"
+msgstr "Recipiente Padrão"
+
+#: inc/customizer/sections/wordpress/background-image.php:108
+msgid "Page Container"
+msgstr "Página Recipiente"
+
+#: inc/customizer/sections/wordpress/background-image.php:131
+msgid "Blog Single Container"
+msgstr "Blog Único Recipiente"
+
+#: inc/customizer/sections/wordpress/background-image.php:154
+msgid "Archives Container"
+msgstr "Arquivos De Contêiner"
+
+#: inc/customizer/sections/wordpress/background-image.php:198
+msgid "Shop Container"
+msgstr "Loja Container"
+
+#: inc/customizer/sections/wordpress/background-image.php:221
+msgid "Shop Single Container"
+msgstr "Loja Único Recipiente"
+
+#: inc/customizer/sections/wordpress/title-tagline.php:25
+msgid "Retina Logo (Optional)"
+msgstr "Retina Logotipo (Opcional)"
+
+#: inc/customizer/sections/wordpress/title-tagline.php:47
+msgid "Mobile Logo (Optional)"
+msgstr "Móveis Logotipo (Opcional)"
+
+#: inc/customizer/sections/wordpress/title-tagline.php:109
+msgid "Logo Width"
+msgstr "Logo Largura"
